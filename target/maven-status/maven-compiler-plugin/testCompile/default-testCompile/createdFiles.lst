@@ -1,0 +1,4 @@
+com\paytr\tests\BaseTest.class
+com\paytr\tests\HomePageTest.class
+com\paytr\tests\PayWithLinksTest$1.class
+com\paytr\tests\PayWithLinksTest.class
